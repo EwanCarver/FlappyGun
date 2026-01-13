@@ -6,4 +6,4 @@ click to jump
 preset enemy positions
 reach shops where you can upgrade weapons to your liking
 
-![LetLooseCover](https://github.com/Eggz-csm/LET_LOOSE/blob/main/PreBuild_Images/letlooseTEMP.png?raw=true)
+![flappy gun](https://github.com/EwanCarver/FlappyGun/blob/main/src/flappy%20gun%20ROUGH.png?raw=true)
