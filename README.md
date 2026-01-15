@@ -6,4 +6,4 @@ get through various screens to reach the end, similar to celeste
 barrel points towards mouse pointer, click to fire.
 
 
-![flappy gun](https://github.com/EwanCarver/FlappyGun/blob/main/src/flappy%20gun%20ROUGH.png?raw=true)
+![gun](https://github.com/EwanCarver/FlappyGun/blob/main/src/gun.gif?raw=true)
