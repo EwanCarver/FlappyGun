@@ -1,9 +1,9 @@
 ### Gun Platformer (Current Personal Project)
 
-Difficult platformer game (2d)
-You move by shooting the ground and the recoil propells you
-get through various screens to reach the end, similar to celeste
-barrel points towards mouse pointer, click to fire.
+* Difficult platformer game (2d)
+* You move by shooting the ground and the recoil propells you
+* Get through various screens to reach the end, similar to celeste
+* Barrel points towards mouse pointer, click to fire.
 
 
 ![gun](https://github.com/EwanCarver/FlappyGun/blob/main/src/gun.gif?raw=true)
